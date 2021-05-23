@@ -1,4 +1,5 @@
 
+Den körbara filen theChat.exe ligger i theChat/app/bin/Debug/
 
-* chatHistory och images innehåller sparade konversationer/bilder från tidigare test, du kan radera dessa och 
-börja om om du vill. Mapparna skapas om de inte redan finns.
+Programmet körs per default på lokal maskin via lokala ip-adressen. I theChat/app/models/MySocket.cs finns instruktioner för hur, samt kod att kommentera ut, så att
+applikationen kan köras mellan mellan enheter på internet. Se rad 134 i filen.
