@@ -1,6 +1,6 @@
 # theChat
 
-Peer to peer chatt skriven i C# .NET
+Peer to peer chat application
 
 Den körbara filen theChat.exe ligger i theChat/app/bin/Debug/
 
